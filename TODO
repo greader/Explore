@@ -1,0 +1,20 @@
+CURRENT
+=======
+simple command processing (look, go)
+
+
+DEFERRED
+=======
+working object model (Thing) + commands (look, go)
+more commands (get, drop)
+
+
+DONE
+=======
+Gilad 2010-1206 input loop
+
+
+FUTURE
+=======
+
+
